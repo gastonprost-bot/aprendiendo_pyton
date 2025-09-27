@@ -9,9 +9,9 @@ if ingreso >= 1000:
         print("ganas bien pero gastas mucho")
 elif ingreso >= 500:
     print("sos clase media en latinoamerica")
-    
+
 elif ingreso >= 250:
     print("sos clase baja")
-    
+
 else: 
     print("sos pobre")

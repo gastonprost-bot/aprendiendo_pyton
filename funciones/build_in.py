@@ -17,7 +17,7 @@ print(round(numero_con_coma,2))
 resultado_bool = bool(0)
 print(resultado_bool)
 
-#retorna treu si todos los valores son verdaderos
+#retorna true si todos los valores son verdaderos
 resultado_all = all([234,"True",[False]])#el 0 y false dentro de otra lista sigue retornando true
 print(resultado_all)
 
